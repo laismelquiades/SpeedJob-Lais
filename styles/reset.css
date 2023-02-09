@@ -1,0 +1,17 @@
+body, header, h1, p, main, section, h2, ul, li, img, button, dialog {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    outline: none;
+    line-height: 150%;
+  }
+  
+  :root {
+    --primary:#212529;
+    --white:#FFFFFF;
+    --grey: #E9ECEF;
+    --black: #121010;
+    --blue: #484FFB;
+    
+  }
